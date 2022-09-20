@@ -1,4 +1,3 @@
-package koala_001;
 
 import java.util.Scanner;
 
